@@ -1,0 +1,23 @@
+TOP 5 
+ Degree Centrality:
+1 Medici 0.43
+2 Strozzi 0.29
+3 Guadagni 0.29
+4 Castellani 0.21
+5 Peruzzi 0.21
+
+ TOP 5 
+ Closeness Centrality:
+1 Medici 0.56
+2 Ridolfi 0.50
+3 Tornabuoni 0.48
+4 Albizzi 0.48
+5 Guadagni 0.47
+
+ TOP 5 
+ Betweenness Centrality:
+1 Medici 0.52
+2 Guadagni 0.25
+3 Albizzi 0.21
+4 Salviati 0.14
+5 Ridolfi 0.11
